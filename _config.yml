@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Dr. Fernando Mercado Malabet, Ph.D."
 description              : "Postdoctoral Research Fellow"
 URL                      : "https://fernando-mercadomalabet.github.io"
-baseurl                  : ""
+baseurl                  : "/landing"
 repository               : "fernando-mercadomalabet/fernando-mercadomalabet.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -113,10 +113,10 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Fernando Mercado Malabet, Ph.D."
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/F-MercadoMalabet_Headshot.jpg"
   bio              : "Postdoctoral Research Fellow, Department of Ecosystem Science and Management, University of Northern British Columbia"
   location         : "Prince George, BC"
-  email            : fernando.mercadomalabet 'at' unbc.ca
+  email            : fernando.mercadomalabet@unbc.ca
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
